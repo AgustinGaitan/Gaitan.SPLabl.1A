@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1593614063 source:e:\proyectos\2ndoparciallabl\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593608416 e:\proyectos\2ndoparciallabl\linkedlist.h
+
+1593605792 source:e:\proyectos\2ndoparciallabl\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"ePais.h"
+
+1593606658 e:\proyectos\2ndoparciallabl\parser.h
+
+1593611116 e:\proyectos\2ndoparciallabl\epais.h
+
+1593608958 source:e:\proyectos\2ndoparciallabl\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"utn.h"
+
+1593611578 e:\proyectos\2ndoparciallabl\menu.h
+
+1589209793 e:\proyectos\2ndoparciallabl\utn.h
+
+1589545125 source:e:\proyectos\2ndoparciallabl\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1593614281 source:e:\proyectos\2ndoparciallabl\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"ePais.h"
+	"utn.h"
+	"controller.h"
+	"parser.h"
+	"menu.h"
+
+1593612234 e:\proyectos\2ndoparciallabl\controller.h
+
+1593614379 source:e:\proyectos\2ndoparciallabl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+	"ePais.h"
+	"informes.h"
+
+1593614186 e:\proyectos\2ndoparciallabl\informes.h
+	"LinkedList.h"
+
+1593613969 source:e:\proyectos\2ndoparciallabl\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"informes.h"
+	"controller.h"
+	"ePais.h"
+	"menu.h"
+
+1593614457 source:e:\proyectos\2ndoparciallabl\epais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"ePais.h"
+	"informes.h"
+	"utn.h"
+
